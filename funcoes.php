@@ -9,3 +9,7 @@ function teste(){
 function testeteste(){
 	return FALSE;
 }
+
+function teste2(){
+	return TRUE;
+}
