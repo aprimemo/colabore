@@ -5,3 +5,7 @@
 function teste(){
 	return TRUE;
 }
+
+function testeteste(){
+	return FALSE;
+}
